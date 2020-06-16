@@ -1,0 +1,12 @@
+matplotlib
+notebook
+pandas
+scikit-learn
+seaborn
+numpy
+jupyter
+tensorflow
+flask
+wtforms
+Flask-WTF
+gunicorn
